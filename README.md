@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piecout
 - 👀 I’m interested in
-    Physiscs ~•~ Paterns ~•~ Puzzles ~•~ Programming ~•~ People
+    Physics ~•~ Patterns ~•~ Puzzles ~•~ Programming ~•~ People
     Cycling ~•~ Walking ~•~ Sailing ~•~ Grocery shopping
 - 🌱 I’m currently learning Phython at sub GPT level
 - 😄 Pronouns: He/Him
